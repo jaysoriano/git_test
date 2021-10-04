@@ -1,0 +1,1 @@
+This is John Rey's first git project
